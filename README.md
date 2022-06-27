@@ -42,6 +42,8 @@ This bot uses the following non already installed by default modules.
 
 This bot contains NOT SAFE FOR WORK content in most of its features. ONLY DEGENS ALLOWED!!!
 
+Nhentai enabled CloudFlare which is preventing any interaction with the website. We hope this eventually gets disabled. Meanwhile commands that envolve the ```hentai``` api will not work.
+
 # Credits
 
 I developed this discord bot, you can contact me on discord, Law#0668. Thank you py-cord devs for making this incredible wrapper for the discord api, since discord.py came back I don't really know if I will keep using py-cord, only time will tell.
